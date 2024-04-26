@@ -1,0 +1,17 @@
+.attractions {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.attractions__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.attractions__info {
+  color: #000;
+  font-size: 16px;
+  text-decoration: underline;
+}

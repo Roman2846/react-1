@@ -1,0 +1,10 @@
+.property {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.property__info {
+  color: #000;
+  font-size: 16px;
+}
